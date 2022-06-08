@@ -1,0 +1,6 @@
+bin
+obj
+PositivePayApi.csproj.user
+Web.Debug.config
+Web.Release.config
+.vs
